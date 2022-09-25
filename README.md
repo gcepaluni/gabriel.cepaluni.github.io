@@ -1,5 +1,5 @@
-# [Danilo Freire](https://danilofreire.github.io)
+# [Gabriel Cepaluni](https://gcepaluni.github.io)
 
-This is my personal website. Here you will find my [CV](http://danilofreire.github.io/DaniloFreireCV.pdf), my latest [research papers](http://danilofreire.github.io/#research), code for my [R packages](http://danilofreire.github.io/#software), and course materials for the [classes I've taught](http://danilofreire.github.io/#teaching). 
+This is my personal website. Here you will find my [CV](http://gcepaluni.github.io/DaniloFreireCV.pdf) and my [academic writing](gcepaluni.github.io/#research). 
 
-You can contact me at [danilofreire@gmail.com](mailto:danilofreire@gmail.com). Thanks for visiting!
+You can contact me at [gabriel.cepaluni@unesp.br](mailto:gabriel.cepaluni@unesp.br). Thanks for visiting!
